@@ -199,9 +199,3 @@ Never commit `.env` to GitHub.
 
 GitHub:
 https://github.com/ronit-khupase
-
----
-
-# License
-
-This project is open-source and available under the MIT License.
